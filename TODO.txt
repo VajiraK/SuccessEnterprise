@@ -1,0 +1,6 @@
+1. order_details.php release heading
+2. order_details.php price at last colum
+3. order_details.php released quantities
+4. Stock delete confermation
+5. delete users delete there orders
+6. stock release details
